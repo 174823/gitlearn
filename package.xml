@@ -12,6 +12,7 @@
   <test_depend>ament_lint_auto</test_depend>
   <test_depend>ament_lint_common</test_depend>
    <description>Git 练习使用功能包</description>
+   <description>Git aa分支练习使用功能包</description>
 
   <export>
     <build_type>ament_cmake</build_type>
